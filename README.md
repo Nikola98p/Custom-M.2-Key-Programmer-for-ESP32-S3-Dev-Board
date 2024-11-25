@@ -1,4 +1,7 @@
 This project showcases a cutting-edge solution for programming ESP32-S3 development boards using a custom M.2 key interface. The hardware features a male M.2 key designed to connect directly to a programming module with the female counterpart, ensuring secure and efficient programming workflows.
+
+![Screenshot 2024-11-25 092704](https://github.com/user-attachments/assets/0a5e17be-dde4-4558-a54a-b575efa9bf33)
+
 Key Features
 
     Custom M.2 Key Interface: Streamlined design for effortless connection between the programmer and the ESP32-S3 development board.
